@@ -1,0 +1,16 @@
+[
+     {
+          "id": 1,
+          "title": "Soy el título del ID 1",
+          "description": "Hola, soy un pastel delicioso.",
+          "code": "PC01",
+          "price": 2000,
+          "status": true,
+          "stock": 20,
+          "category": "Pasteles",
+          "thumbnails": [
+               "pastel1.jpg",
+               "pastel2.jpg"
+          ]
+     }
+ ]
